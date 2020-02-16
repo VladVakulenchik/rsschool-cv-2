@@ -1,2 +1,2 @@
-# rsschool-cv-2
+# rsschool-cv
 https://vladvakulenchik.github.io/rsschool-cv/
